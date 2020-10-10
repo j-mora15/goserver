@@ -23,8 +23,6 @@ func readFlags() {
 	var newPort int
 	var customPath string
 
-	fmt.Println(os.Environ())
-
 	defaultPort, err := strconv.Atoi(os.Getenv("PORT"))
 	if err != nil {
 		defaultPort = 8080
