@@ -11,7 +11,7 @@ import (
 
 var (
 	port  = ""
-	route = ""
+	route = "./dist"
 )
 
 func main() {

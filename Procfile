@@ -1,1 +1,0 @@
-web:GoServer -path ./dist
