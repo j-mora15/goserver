@@ -7,7 +7,7 @@ El servidor se puede correr directamente desde el codigo o compilarlo para usarl
 Como el lenguaje Go lo permite, es posible compilar un ejecutable para Linux, MAC, y Windows, pudiendo correr
 el mismo desde la terminal de su ordenador.
 
-## ¡Como ejecutar?
+## Como ejecutar?
 
 Primeramente es necesario clonar el proyecto a su ordenador.
 
