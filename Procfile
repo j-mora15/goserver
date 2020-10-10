@@ -1,1 +1,1 @@
-web:./bin/GoServer -path ./dist
+web:GoServer -path ./dist
