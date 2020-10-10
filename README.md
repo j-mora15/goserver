@@ -1,6 +1,6 @@
 # Heroku 
 
-Esta rama representa una version de prueba de este software y mi repositorio TooDo para el despliegue en 
+Esta rama representa una version de prueba de este software y mi repositorio Curriculum-Vitae para el despliegue en 
 la plataforma Heroku
 
 # GoServer
@@ -12,7 +12,7 @@ El servidor se puede correr directamente desde el codigo o compilarlo para usarl
 Como el lenguaje Go lo permite, es posible compilar un ejecutable para Linux, MAC, y Windows, pudiendo correr
 el mismo desde la terminal de su ordenador.
 
-## ¡Como ejecutar?
+## Como ejecutar?
 
 Primeramente es necesario clonar el proyecto a su ordenador.
 
